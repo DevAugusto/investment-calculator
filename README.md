@@ -18,5 +18,4 @@ let calcTwo = value * 20 / 100;
 let calcThree = value * 30 / 100;
 ```
 
-Live preview: <a href="https://calculator-investments.netlify.app/" target="_blank"></a>
-
+Live preview: <a href="https://calculator-investments.netlify.app/" target="_blank">Live preview</a>
