@@ -2,7 +2,7 @@
 
 ### Hello, dear! 👋
 
-I did the calculator with the metodology oof investment: "50.30.20" with a new minimalist design. But i did a update in this project. For rule, the calculator would use the 50.30.20 calculations base, but i changed this for my own percentages.
+I did the calculator with the metodology of investment: "50.30.20" with a new minimalist design. But i did a update in this project. For rule, the calculator would use the 50.30.20 calculations base, but i changed this for my own percentages.
 
 My calculator uses the calculation base: 50.20.30 
 
